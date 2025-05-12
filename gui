@@ -1,26 +1,3 @@
-TomasC
-tomasc4740
-Invisível
-
-TomasC[lore]
- — 22/01/2025 11:09
-Legacy[lore]
- — 11/03/2025 10:23
-https://discord.gg/car5nUvQ
-Legacy[lore]
- — 16:06
-oh estupid oja tas add
-Legacy
- iniciou uma chamada. — 16:06
-Legacy[lore]
- — 16:11
-github
-https://discord.gg/ejuqpyUB
-TomasC[lore]
- — 16:18
-sdaa
-Legacy[lore]
- — 16:21
 local player = game.Players.LocalPlayer
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
@@ -553,6 +530,4 @@ for _, v in ipairs(mainFrame:GetDescendants()) do
     if v:IsA("TextLabel") or v:IsA("TextButton") or v:IsA("TextBox") then
         TweenService:Create(v, TweenInfo.new(0.3), {TextTransparency = 0}):Play()
     end
-end 
-mm2spawner.txt
-15 KB
+end
